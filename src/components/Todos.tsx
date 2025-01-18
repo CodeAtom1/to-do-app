@@ -1,4 +1,3 @@
-import React from 'react'
 import { Todo, useTodos } from '../store/Todos';
 import { useSearchParams } from 'react-router-dom';
 
